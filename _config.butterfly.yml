@@ -24,7 +24,7 @@ menu:
 # ---------- 社交图标 ----------
 social:
   fab fa-github: "https://github.com/kapi403 || GitHub || #24292e"
-  fas fa-envelope: "mailto:3337409790@qq.com || Email || #4a7dbe"
+  fas fa-envelope: "https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=3337409790@qq.com || Email || #4a7dbe"
 
 # ---------- 图像 ----------
 favicon: /img/favicon.ico
